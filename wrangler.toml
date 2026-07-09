@@ -1,0 +1,8 @@
+name = "blog-tavultesoft-com"
+main = "src/index.ts"
+compatibility_date = "2024-02-23"
+
+routes = [
+	{ pattern = "blog.tavultesoft.com", custom_domain = true }
+]
+
